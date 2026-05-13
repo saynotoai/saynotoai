@@ -18,14 +18,6 @@ Former Blockchain Developer, now transitioning into Web/AppSec, authorized pente
 
 ---
 
-### Background
-
-- Blockchain / backend development with TypeScript and Rust
-- Strong technical learning habits and AI-assisted engineering workflows
-- Languages: English, French, Russian
-
----
-
 ### Tools I'm Practicing
 
 <p>
