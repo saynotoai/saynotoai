@@ -18,39 +18,11 @@ Former Blockchain Developer, now transitioning into Web/AppSec, authorized pente
 
 ---
 
-### Current Focus
-
-I'm building a public 56-day portfolio sprint focused on practical Web/AppSec and external perimeter pentest fundamentals.
-
-- Web application security: OWASP Top 10, API security, auth, access control, XSS, SQLi, SSRF
-- Pentest tooling: Burp Suite, OWASP ZAP, Nmap, Nuclei, ffuf, dirsearch, Amass/Subfinder
-- Linux and networking: SSH, nginx, systemd, logs, DNS, HTTP/TLS, TCP/IP
-- Security automation: Python/Bash/TypeScript tools for recon, triage, and reporting
-- Reporting: reproducible findings, CVSS, impact, remediation, retest guidance
-
-I practice only on legal targets: local labs, intentionally vulnerable apps, CTFs, and authorized scopes.
-
----
-
 ### Background
 
 - Blockchain / backend development with TypeScript and Rust
-- Practical Linux, SSH, nginx, deployment experience
 - Strong technical learning habits and AI-assisted engineering workflows
 - Languages: English, French, Russian
-
----
-
-### Portfolio Sprint
-
-| Repository | What it demonstrates |
-|---|---|
-| [pentest-roadmap-2026](https://github.com/saynotoai/pentest-roadmap-2026) | 56-day learning plan, daily logs, weekly reviews, certificates |
-| [web-security-labs](https://github.com/saynotoai/web-security-labs) | OWASP notes, PortSwigger summaries, Juice Shop/WebGoat lab reports |
-| [pentest-toolbox](https://github.com/saynotoai/pentest-toolbox) | Small Python/Bash/TS tools for security checks and scanner triage |
-| [external-recon-lab](https://github.com/saynotoai/external-recon-lab) | Legal recon methodology, DNS/subdomain/service enumeration checklist |
-| [mock-pentest-reports](https://github.com/saynotoai/mock-pentest-reports) | Client-style mock pentest reports for lab environments |
-| [secure-ci-demo](https://github.com/saynotoai/secure-ci-demo) | SAST/SCA/secrets/container/web security checks in CI |
 
 ---
 
@@ -75,17 +47,3 @@ I practice only on legal targets: local labs, intentionally vulnerable apps, CTF
 
 - [All repositories](https://github.com/saynotoai?tab=repositories)
 - More security-focused repositories are being built during the 56-day sprint.
-
----
-
-### What I'm Looking For
-
-Trainee / Junior roles in:
-
-- Web Application Security
-- Application Security
-- Authorized Penetration Testing
-- Vulnerability Management
-- Security Automation
-- DevSecOps / Product Security
-
