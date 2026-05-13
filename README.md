@@ -3,7 +3,7 @@
 <img
   align="right"
   width="400"
-  src="https://github-readme-stats.vercel.app/api?username=saynotoai&show_icons=true&theme=dark"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=saynotoai&show_icons=true&theme=dark"
 />
 
 <p><em>
