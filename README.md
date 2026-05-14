@@ -40,4 +40,4 @@ Former Blockchain Developer, now transitioning into Web/AppSec, authorized pente
 - [All repositories](https://github.com/saynotoai?tab=repositories)
 - More security-focused repositories are being built during the 56-day sprint.
 
-[BG](./bg.jpg)
+![BG](./bg.jpg)
