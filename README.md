@@ -33,6 +33,5 @@ Former Blockchain Developer.
 ### Open Source / Work
 
 - [All repositories](https://github.com/saynotoai?tab=repositories)
-- More security-focused repositories are being built during the 56-day sprint.
 
 ![BG](./bg.jpg)
