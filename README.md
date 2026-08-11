@@ -13,7 +13,6 @@ Former Blockchain Developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/saynotoai?label=follow%20github&style=flat-square)](https://github.com/saynotoai)
 ![Profile Viewers](https://komarev.com/ghpvc/?username=saynotoai)
-![Security Sprint](https://img.shields.io/badge/security_sprint-56_days-blue?style=flat-square)
 ![Legal Scope Only](https://img.shields.io/badge/security-legal_scope_only-green?style=flat-square)
 
 ---
