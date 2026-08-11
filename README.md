@@ -8,7 +8,7 @@
 
 <p><em>
 Hey, I'm αλχημιστής.<br>
-Former Blockchain Developer, now transitioning into Web/AppSec, authorized pentesting, and security automation.
+Former Blockchain Developer.
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/saynotoai?label=follow%20github&style=flat-square)](https://github.com/saynotoai)
@@ -22,10 +22,6 @@ Former Blockchain Developer, now transitioning into Web/AppSec, authorized pente
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-111?style=flat-square&logo=burpsuite&logoColor=orange" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nuclei-111?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Bash-111?style=flat-square&logo=gnubash" />
   <img src="https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript" />
